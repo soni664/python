@@ -1,0 +1,12 @@
+name=input("enter your name:")
+address=input("enter your address:")
+email=input("enter your email:")
+phone_number=input("enter your phone number:")
+print("person's details")
+print("\nperson's details:")
+print("-------------------")
+print(f"name:{name}")
+print(f"address:{address}")
+print(f"email:{email}")
+print(f"phone number:{phone_number}")
+
